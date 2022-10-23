@@ -1,6 +1,6 @@
 # LogisticRegression
 
-Some of the classification algorithms are:
+#Some of the classification algorithms are:
 Logistic regression
 Naive Bayes
 Support Vector Machines

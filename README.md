@@ -1,10 +1,10 @@
 # LogisticRegression
 
 #Some of the classification algorithms are:
-Logistic regression
-Naive Bayes
-Support Vector Machines
-Decision Tree
+#Logistic regression
+#Naive Bayes
+#Support Vector Machines
+#Decision Tree
 3 / 12
 Logistic regression
 Logistic Regression
